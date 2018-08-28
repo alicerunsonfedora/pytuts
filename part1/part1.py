@@ -1,5 +1,4 @@
 # Variable Types and Functions (Basic)
-# To ease the process, please only write code in marked areas.
 
 # Bool can be True or False
 boolean_value = False
