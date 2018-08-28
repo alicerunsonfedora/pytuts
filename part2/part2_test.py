@@ -1,7 +1,7 @@
 # Try It!
 # Using the list provided, write a function that checks to see if the password
 # matches anything in the valid password database. Have the function return True
-# if it does. Otherwise, return False.
+# if it does. Otherwise, return False. If possible, write the documentation.
 
 valid_passwords = ["kittens123", "tomster42", "snaddaf", "chr32", "this_is_a_flag", "invalidpass"]
 

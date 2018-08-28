@@ -3,6 +3,7 @@
 # Bool can be True or False
 boolean_value = False
 
+
 def play_integers():
     # Variable Types
     integer = 1
@@ -41,7 +42,14 @@ def concat_string():
 # This function in particular will produce something that can be stored
 # in a variable.
 def multiply(x, y):
+    """
+    Multiplies two numbers together and returns the product.
+    :param x: The first number
+    :param y: The second number
+    :returns: The product of x and y
+    """
     return x * y
+
 
 if __name__ == "__main__":
     play_integers()

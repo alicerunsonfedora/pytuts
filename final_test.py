@@ -1,7 +1,7 @@
 # Try It!
 # Import your password checker from Part 2 and print out the contents to a file.
 # If possible, find a way to print all of the passwords to a file or through a
-# function.
+# function. If possible, write the documentation.
 #
 # Bonus Challenge: Use the calendar function to find the year given the following
 # constraints (you'll need to look at documentation)!
