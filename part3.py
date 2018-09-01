@@ -15,7 +15,7 @@ import time
 
 def print_list_slowly(your_list):
     for item in your_list:
-        print item
+        print(item)
 
         # This line is brought from the Time module. The parameter indicates
         # seconds to pause for,
